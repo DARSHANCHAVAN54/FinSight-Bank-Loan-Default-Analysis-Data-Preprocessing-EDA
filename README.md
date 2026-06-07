@@ -35,7 +35,6 @@ Created business-focused features such as:
 ### Macroeconomic Analysis
 
 * RBI Repo Rate impact analysis
-* COVID-19 economic shock analysis
 * Default trend evaluation
 
 ## 💡 Key Insights
